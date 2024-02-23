@@ -30,19 +30,9 @@ Além disso, nosso sistema de monitoramento é altamente seguro e confiável, ga
 
 Não deixe suas decisões ao acaso. Invista no poder dos dados com nosso serviço de monitoramento e esteja à frente da concorrência. Entre em contato conosco hoje mesmo para saber mais sobre como podemos impulsionar o seu sucesso político ou autoridade governamental.        
       
-    <section>
-        <h3><Projetos>
-        <h3> Projetos </h3>
-        <p>Mais de 1000 projetos desenvolvidos para políticos de todo o país. Em um mundo onde a informação é poder, o monitoramento de dados torna-se vital para políticos e autoridades que buscam tomar decisões informadas e estratégicas.                        
-        </p>
-    </section>
-    <section>
-        <h3><Projetos>
+  
+  Mais de 1000 projetos desenvolvidos para políticos de todo o país. Em um mundo onde a informação é poder, o monitoramento de dados torna-se vital para políticos e autoridades que buscam tomar decisões informadas e estratégicas.                        
+       
         <h3> Contatos </h3>
         <p> Ligue e marque uma call (33)9-8844.6171                
-        </p>
-    </section>    
-</main>
-
-</body>
-</html>
+      
