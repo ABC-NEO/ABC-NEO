@@ -14,8 +14,7 @@
     </ul>
 </Nav>
 <header>
-    <div class="center">
-        <img src="./img/download.png"></img>    
+    <div class="center"
     </div>
     <h1> Monitoramento Inteligente</h1>
     <h2> Achamos coisas e pessoas </h2>
