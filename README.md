@@ -21,7 +21,7 @@
 <main>
     
     <section>
-        <h3>Sobre Mim</h3>
+    
         <p>            Em um mundo onde a informação é poder, o monitoramento de dados torna-se vital para políticos e autoridades que buscam tomar decisões informadas e estratégicas. 
             
             Nosso serviço oferece uma solução abrangente e personalizada para acompanhar e analisar dados relevantes em tempo real, capacitando líderes a entenderem melhor as necessidades de suas comunidades, antecipar tendências e responder de forma eficaz aos desafios em constante evolução.
