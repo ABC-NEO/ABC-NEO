@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fabrício</title>
-    <link rel="stylesheet" href="index.css"    
-</head>
+
 <body>
 <Nav>
     <ul>
@@ -57,9 +49,6 @@ Não deixe suas decisões ao acaso. Invista no poder dos dados com nosso serviç
         </p>
     </section>    
 </main>
-<footer>
-    <a>
-        <img src="17224050992248"></img>
-    </footer>
+
 </body>
 </html>
